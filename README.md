@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aarav Bhattarai
+# 👋 Hi, I'm Dijash
 
 I'm an ambitious and flexible developer passionate about using technology to solve real-world problems. With a foundation in Computer Science and hands-on experience in both front-end and back-end development, I enjoy building meaningful digital experiences and working in collaborative teams.
 
