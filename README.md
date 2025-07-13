@@ -43,7 +43,7 @@ I'm an ambitious and flexible developer passionate about using technology to sol
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Portfolio Project<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Node<br>
 
 
 ## 🌐 Socials:
