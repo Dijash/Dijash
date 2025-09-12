@@ -8,7 +8,7 @@
 
 I'm an ambitious and adaptable developer with a passion for leveraging technology to create meaningful solutions. With a solid foundation in Computer Science and hands-on experience across the full development stack, I thrive on building impactful digital experiences and collaborating with dynamic teams.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Dijash/Dijash/master/profile.gif">
 
 - 🌱 **Currently Learning:** Python, React, JavaScript, Java
 - 💻 **Portfolio:** [github.com/Dijash](https://github.com/Dijash)
@@ -44,17 +44,17 @@ I'm an ambitious and adaptable developer with a passion for leveraging technolog
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dijash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijash&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dijash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dijash&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dijash&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dijash&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dijash&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dijash&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
@@ -66,7 +66,7 @@ I'm an ambitious and adaptable developer with a passion for leveraging technolog
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarav-bhattarai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dijash)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/utsav%20bhattari)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dijash____)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utsavbhattarai29@gmail.com)
@@ -76,7 +76,7 @@ I'm an ambitious and adaptable developer with a passion for leveraging technolog
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dijash&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Dijash&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
 </div>
